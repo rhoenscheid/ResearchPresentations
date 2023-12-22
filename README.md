@@ -1,4 +1,4 @@
-# ReserachPresentations
+# ResearchPresentations
 
 PowerPoints I delivered during my HPGe Summer Internship with the UCL HEP group are under /HPGe.
 
